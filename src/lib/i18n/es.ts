@@ -99,6 +99,11 @@ export const es = {
     BATCH_TOO_LARGE: "Tamaño del lote demasiado grande",
     BECOME_A_LIQUIDITY_PARTNER: "Conviértete en socio de liquidez",
     BECOME_A_LIQUIDITY_PARTNER_SUBTITLE: "Gana recompensas",
+    BENEFITS_BANNER_CTA: "Ver beneficios",
+    BENEFITS_BANNER_DESCRIPTION:
+      "Pagá con QR en comercios adheridos y recibí USDC.",
+    BENEFITS_BANNER_LABEL: "Beneficios",
+    BENEFITS_BANNER_TITLE: "Hasta {{cashbackPercent}}% de reintegro",
     BOUGHT_VIA: "Comprado a través de",
     BRIDGE: "Puente",
     BRIDGE_ADDRESS_PLACEHOLDER: "Dirección de {{chain}}",
@@ -726,7 +731,7 @@ export const es = {
     FAQ_RECOVER_FUNDS_PRIVATE_KEY:
       "¿Cómo recupero fondos usando mi clave privada?",
     FAQ_RECOVER_FUNDS_PRIVATE_KEY_ANSWER:
-      "Si perdiste el acceso a tu cuenta pero aún tienes la clave privada de tu billetera, puedes recuperar tus USDC.\n\n1. Abre la página \"Recuperar fondos\".\n2. Pega tu clave privada para cargar tu billetera inteligente.\n3. Ingresa la dirección de otra billetera P2P.me y el monto.\n4. Toca Recuperar fondos para enviar.\n\nNunca compartas tu clave privada con nadie.",
+      'Si perdiste el acceso a tu cuenta pero aún tienes la clave privada de tu billetera, puedes recuperar tus USDC.\n\n1. Abre la página "Recuperar fondos".\n2. Pega tu clave privada para cargar tu billetera inteligente.\n3. Ingresa la dirección de otra billetera P2P.me y el monto.\n4. Toca Recuperar fondos para enviar.\n\nNunca compartas tu clave privada con nadie.',
     FAQ_SHOPKEEPER_ASKING_PAYMENT_PROOF:
       "El comerciante me pide una prueba de pago, ¿qué debo hacer?",
     FAQ_SHOPKEEPER_ASKING_PAYMENT_PROOF_ANSWER:

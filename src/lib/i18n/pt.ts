@@ -99,6 +99,11 @@ export const pt = {
     BATCH_TOO_LARGE: "Tamanho do lote muito grande",
     BECOME_A_LIQUIDITY_PARTNER: "Torne-se um parceiro de liquidez",
     BECOME_A_LIQUIDITY_PARTNER_SUBTITLE: "Ganhe recompensas",
+    BENEFITS_BANNER_CTA: "Ver benefícios",
+    BENEFITS_BANNER_DESCRIPTION:
+      "Pague com QR em lojas parceiras e receba USDC de volta.",
+    BENEFITS_BANNER_LABEL: "Benefícios",
+    BENEFITS_BANNER_TITLE: "Até {{cashbackPercent}}% de cashback",
     BOUGHT_VIA: "Comprado via",
     BRIDGE: "Ponte",
     BRIDGE_ADDRESS_PLACEHOLDER: "Endereço {{chain}}",
@@ -717,7 +722,7 @@ export const pt = {
     FAQ_RECOVER_FUNDS_PRIVATE_KEY:
       "Como recupero fundos usando minha chave privada?",
     FAQ_RECOVER_FUNDS_PRIVATE_KEY_ANSWER:
-      "Se você perdeu o acesso à sua conta mas ainda tem a chave privada da sua carteira, pode recuperar seus USDC.\n\n1. Abra a página \"Recuperar Fundos\".\n2. Cole sua chave privada para carregar sua carteira inteligente.\n3. Insira o endereço de outra carteira P2P.me e o valor.\n4. Toque em Recuperar fundos para enviar.\n\nNunca compartilhe sua chave privada com ninguém.",
+      'Se você perdeu o acesso à sua conta mas ainda tem a chave privada da sua carteira, pode recuperar seus USDC.\n\n1. Abra a página "Recuperar Fundos".\n2. Cole sua chave privada para carregar sua carteira inteligente.\n3. Insira o endereço de outra carteira P2P.me e o valor.\n4. Toque em Recuperar fundos para enviar.\n\nNunca compartilhe sua chave privada com ninguém.',
     FAQ_SHOPKEEPER_ASKING_PAYMENT_PROOF:
       "O lojista está pedindo para ver o pagamento – o que devo fazer?",
     FAQ_SHOPKEEPER_ASKING_PAYMENT_PROOF_ANSWER:

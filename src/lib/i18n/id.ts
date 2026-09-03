@@ -99,6 +99,11 @@ export const id = {
     BATCH_TOO_LARGE: "Ukuran batch terlalu besar",
     BECOME_A_LIQUIDITY_PARTNER: "Jadi mitra likuiditas",
     BECOME_A_LIQUIDITY_PARTNER_SUBTITLE: "Dapatkan hadiah",
+    BENEFITS_BANNER_CTA: "Lihat manfaat",
+    BENEFITS_BANNER_DESCRIPTION:
+      "Bayar dengan QR di toko mitra dan dapatkan USDC kembali.",
+    BENEFITS_BANNER_LABEL: "Manfaat",
+    BENEFITS_BANNER_TITLE: "Cashback hingga {{cashbackPercent}}%",
     BOUGHT_VIA: "Dibeli via",
     BRIDGE: "Bridge",
     BRIDGE_ADDRESS_PLACEHOLDER: "Alamat {{chain}}",
@@ -713,7 +718,7 @@ export const id = {
     FAQ_RECOVER_FUNDS_PRIVATE_KEY:
       "Bagaimana cara memulihkan dana menggunakan kunci pribadi saya?",
     FAQ_RECOVER_FUNDS_PRIVATE_KEY_ANSWER:
-      "Jika Anda kehilangan akses ke akun tetapi masih memiliki kunci pribadi dompet Anda, Anda dapat memulihkan USDC Anda.\n\n1. Buka halaman \"Pulihkan Dana\".\n2. Tempel kunci pribadi Anda untuk memuat dompet pintar Anda.\n3. Masukkan alamat dompet P2P.me lainnya dan jumlahnya.\n4. Ketuk Pulihkan dana untuk mengirim.\n\nJangan pernah membagikan kunci pribadi Anda kepada siapa pun.",
+      'Jika Anda kehilangan akses ke akun tetapi masih memiliki kunci pribadi dompet Anda, Anda dapat memulihkan USDC Anda.\n\n1. Buka halaman "Pulihkan Dana".\n2. Tempel kunci pribadi Anda untuk memuat dompet pintar Anda.\n3. Masukkan alamat dompet P2P.me lainnya dan jumlahnya.\n4. Ketuk Pulihkan dana untuk mengirim.\n\nJangan pernah membagikan kunci pribadi Anda kepada siapa pun.',
     FAQ_SHOPKEEPER_ASKING_PAYMENT_PROOF:
       "Penjaga toko meminta untuk melihat pembayaran – apa yang harus saya lakukan?",
     FAQ_SHOPKEEPER_ASKING_PAYMENT_PROOF_ANSWER:
